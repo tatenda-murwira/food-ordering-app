@@ -161,6 +161,16 @@ dependencies:
 - Search functionality
 - Favorites/Wishlist
 
+##Screenshots
+  ![Screenshot_20260213_182123](https://github.com/user-attachments/assets/70d3e9e3-0a54-4bda-98d3-005080d3461e)
+  ![Screenshot_20260213_182114](https://github.com/user-attachments/assets/dbe603df-808d-45c4-a26c-9f6526e31a05)
+  ![Screenshot_20260213_182158](https://github.com/user-attachments/assets/6d24cdef-2d35-41bb-a4dc-206fd19856e0)
+![Screenshot_20260213_182210](https://github.com/user-attachments/assets/70ce5e84-e62c-480a-b9c1-c9e7005bdcce)
+![Screenshot_20260213_182148](https://github.com/user-attachments/assets/11ee4861-aeba-41fe-988a-8af0ab18768b)
+
+
+
+
 ## License
 
 This project is a demonstration app for educational purposes.
